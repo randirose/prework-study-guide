@@ -10,9 +10,9 @@ N/A
 
 ## Usage
 
-Use this study guide by reading the notes under each topic to learn more about each one!
+Use this study guide by reading the notes I took under each topic to learn more about each one!
 
-Open the DevTools console by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). You can see the JavaScript running! It will list the topics I learned about from prework, and it will randomly choose one topic to study first.
+To see JavaScript running, open the DevTools console by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). This will list the topics I learned about from prework, and it will randomly choose one topic to study first. You can study that topic and then refresh again to get a new topic suggestion!
 
 ## Credits
 
